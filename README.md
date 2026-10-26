@@ -19,9 +19,11 @@
 
 是目前我用过最便宜的机场，而且还稳定。套餐如下图。
 
-<img src="assets/image-20261026220759574.png" alt="image-20261026220759574" style="zoom:80%; float:left" />
+<img src="assets/image-20261026220759574.png" alt="image-20261026220759574" style="zoom:40%; float:left" />
 
-<img src="assets/image-20261026220857852.png" alt="image-20261026220857852" style="zoom:80%; float:left" />
+<img src="assets/image-20261026220857852.png" alt="image-20261026220857852" style="zoom:40%; float:left" />
+
+
 
 ## 二、其他机场项目收集
 
@@ -55,6 +57,12 @@
 
 
 
+
+
+
+
+
+test
 
 
 

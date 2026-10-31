@@ -3,7 +3,7 @@
 
 有好用的欢迎提Issues。确实好用我再推荐给大家。
 
-**⭐为什么要收藏我？**
+**⭐为什么要收藏我？**[VPN_jctj永久地址](https://github.com/jonathon1113/VPN_jctj)
 
 1、整理所有仓库地址，并且做综合分析。
 
@@ -53,15 +53,16 @@
 
 ## 二、其他机场分享项目收集
 
-| Github项目                                                   | 类型简介                                      | ⭐Start       |
-| ------------------------------------------------------------ | --------------------------------------------- | ------------ |
-| **[SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan)** | 专业稳定，偏贵。                              | ⭐Start 21.3k |
-| **[panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)** | **相对便宜推荐，很多心得体会。**（⭐推荐观看） | ⭐Start  16K  |
-| **[v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)**   | 大家可以参考，这里面是比较专业稳定机场。      | ⭐Start 7.1k  |
-| **[fly](https://github.com/029danio/fly)**                   | 机场节点评测，每月更新                        | ⭐Start 3.2k  |
-| **[SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash)** | 有中级、高级推荐，⭐**中端有很多免费试用机场** | ⭐Start 2.9k  |
-| **[jichangtuijian](https://github.com/VPN-tuijian/jichangtuijian)** | 中端测评。最低15￥/月                         | ⭐Start 2.7k  |
-| **[kjfx](https://github.com/kjfx/kjfx)**                     | 简单列表，介绍不够详细，待测试！              | ⭐Start 881   |
+| Github项目                                                   | 类型简介                                                | ⭐Start                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------- | --------------------------------------- |
+| **[SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan)** | 专业稳定，偏贵。                                        | ⭐Start 21.3k                            |
+| **[panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)** | **相对便宜推荐，很多心得体会。**（⭐推荐观看）           | ⭐Start  16K                             |
+| **[v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)**   | 大家可以参考，这里面是比较专业稳定机场。                | ⭐Start 7.1k                             |
+| **[fly](https://github.com/029danio/fly)**                   | 机场节点评测，每月更新                                  | ⭐Start 3.2k                             |
+| **[SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash)** | 有中级、高级推荐，⭐**中端有很多免费试用机场**           | ⭐Start 2.9k                             |
+| **[jichangtuijian](https://github.com/VPN-tuijian/jichangtuijian)** | 中端测评。最低15￥/月                                   | ⭐Start 2.7k                             |
+| **[kjfx](https://github.com/kjfx/kjfx)**                     | 简单列表，介绍不够详细，待测试！                        | ⭐Start 881                              |
+| https://1.x31415926.top/cn.html                              | 各种**今日VPN优惠推荐**，猎奇可以尝试，欢迎反馈好用的。 | [网站](https://1.x31415926.top/cn.html) |
 
 ## 三、软件下载
 

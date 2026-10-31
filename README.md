@@ -9,7 +9,7 @@
 
 2、我推荐的大多是我自己用的。
 
-3、⭐**也是一个找其他项目入口，并对他们进行简单分析。**
+3、⭐**一个找其他机场项目入口，并对他们进行简单分析。**
 
 4、⭐**本项目保证可以找到一款适合你的。**
 
@@ -45,8 +45,8 @@
 | [陪钱机场](https://xn--mes358aby2apfg.com/register?code=jJ7WmPNz&cover=sfw) | 便宜好用，速度快。--自用2月。(**访问需扶墙**)                | 2￥/100G，4￥/500G          | ⭐18.9￥/1000G                |
 | [inets](https://inets.io/#/register?code=R5HwzjhB)           | 准备试用。访问不用扶墙。缺点偏贵。                           | 7.5￥/50G                   | ---                          |
 | [边缘节点](https://nvbnb.lonka.click/#/?code=KDyaOdpf)       | ⭐全专线，多价位，最高 2.5Gbps 稳定速率(**访问需扶墙**)       | 15￥/50G                    | 99￥/100G                    |
-| [全球云](https://n3oplhjnm.quanqiugttt1.club/#/?code=uu8OCLjk) | 不限速，全面支持，访问不用扶墙。缺点偏贵。                   | 20￥/120G                   | 100￥/100G                   |
-| [红杏云](https://hxlove25s.cc/web/#/login?code=IUh11UC9)     | 好在稳定，偏贵。访问不用扶墙。--自用2年(时而优惠)            | 20￥/200G                   | 388￥/3000G                  |
+| [全球云](https://n3oplhjnm.quanqiugttt1.club/#/?code=uu8OCLjk) | 不限速，全面支持可8K播放，访问不用扶墙。缺点偏贵。           | 20￥/120G                   | 100￥/100G                   |
+| [红杏云](https://hxlove25s.cc/web/#/login?code=IUh11UC9)     | 好在稳定，偏贵。**赠送 EMBY 影视库**，访问不用扶墙。--自用2年(时而优惠) | 20￥/200G                   | 388￥/3000G                  |
 | [香蕉加速](https://b.banana06.win/auth/register?code=4uPD)   | ⭐贵！稳定！企业推荐！(**访问需扶墙**)                        | 33￥/100G-企业线路          | ---                          |
 
 

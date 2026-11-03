@@ -38,9 +38,9 @@
 | [良心云](https://xn--9kqz23b19z.com/#/register?code=HSZW4gB8) | 月套餐多，覆盖各种价位，满足各种要求。自用2月。(**访问需扶墙**) | 2￥/100G，4￥/500G          | ⭐21￥/1000G                  | 2025-03-04               |
 | [陪钱机场](https://xn--mes358aby2apfg.com/register?code=jJ7WmPNz&cover=sfw) | 便宜好用，速度快。--自用2月。(**访问需扶墙**)                | 2￥/100G，4￥/500G          | ⭐18.9￥/1000G                | 2022-11-06               |
 | [杏花云](https://216.236.61.23:8888/#/register?code=PLD3m9ca) | ⭐相对便宜，访问不用扶墙。--自用2月                           | 3￥/200G，12￥(年)/50G月    | 20￥/1000G年                 | 可能随时跑路，没查到信息 |
-| [飞鸟云](https://a1.170809.xyz/#/register?code=P5VrczBK)     | 包年便宜(**访问需扶墙**)                                     | 10￥/200G，12￥(年)/50G月   | 10￥/200G                    |                          |
+| [飞鸟云](https://a1.170809.xyz/#/register?code=P5VrczBK)     | 包年便宜(**访问需扶墙**)                                     | 10￥/200G，12￥(年)/50G月   | 10￥/200G                    | 2021-08-09               |
 | [FSCloud](https://web.fscloud.app/#/register?code=dDGiGWbI)  | ⭐**3天免费试用**(**访问需扶墙**)                             | 12￥/1.2TB，13￥(年)/100G月 | 99￥/1000G                   |                          |
-| [❌一元机场](https://vgvg.vg#/register?code=0KLuGDda)         | 包年便宜，❌**速度不稳定**。访问不用扶墙。--自用1年           | 7￥/100G，12￥(年)/100G月   | ---                          | 2023-08-14               |
+| [一元机场](https://vgvg.vg#/register?code=0KLuGDda)          | 包年便宜，❌**速度有时不稳定**。访问不用扶墙。--自用1年       | 7￥/100G，12￥(年)/100G月   | ---                          | 2023-08-14               |
 | [魔戒](https://74.82.196.10:8000/register?aff=al3J9aJ1)      | 便宜体验，全是一次性套餐，访问不用扶墙                       | ---                         | 1￥/1G，19.9￥/130G          | 2021-11-26               |
 | [STC-SERVER](http://acad.stc-spadesdns.com/auth/register?code=oQYc) | 贵但稳定。推荐按量付费。--自用5年(**访问需扶墙**)。          | ---                         | **0.8￥ /G**                 | 2020-02-08               |
 | [inets](https://inets.io/#/register?code=R5HwzjhB)           | 准备试用。访问不用扶墙。缺点偏贵。                           | 7.5￥/50G                   | ---                          |                          |

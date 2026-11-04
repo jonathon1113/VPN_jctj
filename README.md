@@ -39,6 +39,8 @@
 | [陪钱机场](https://xn--mes358aby2apfg.com/register?code=jJ7WmPNz&cover=sfw) | ⭐便宜好用，速度快。--自用2月。(**需过墙**)                   | 2￥/100G，4￥/500G          | ⭐18.9￥/1000G                      | 2022-11-06 |
 | [杏花云](https://216.236.61.23:8888/#/register?code=PLD3m9ca) | ⭐相对便宜，访问无需过墙。[官网](https://xh.xn--mes358a1b607m.com/) | 3￥/200G，12￥(年)/50G月    | 20￥/1000G年                       | 2026-09-20 |
 | [吹雪云](https://xn--9kqs1lo79d.com/#/register?code=qPC3m3ZE) | ⭐访问不用过墙。                                              | 2￥/128G                    | 18.8￥/888G                        | 2026-06-13 |
+| [熊云机场](https://172.235.60.133:15000/#/register?code=TzyKReOB) | **5G试用**包，不用过墙，[官网](https://xn--9kq856f.com/)     | 3.9￥/18G                   | 34.9￥/90G                         | 2023-06-11 |
+| [一元机场](https://xn--4gq62f52gdss.top/#/register?code=rqZzdoix) | 量大管饱。不太稳定。(**需过墙**)                             | 5￥/2000G，12￥(年)/500G月  | ---                                | 2022-03-27 |
 | [飞鸟云](https://a1.170809.xyz/#/register?code=P5VrczBK)     | 包年便宜(**需过墙**)                                         | 10￥/200G，12￥(年)/50G月   | 10￥/200G                          | 2021-08-09 |
 | [FSCloud](https://web.fscloud.app/#/register?code=dDGiGWbI)  | ⭐**3天免费试用**(**需过墙**)                                 | 12￥/1.2TB，13￥(年)/100G月 | 99￥/1000G                         | 2024-02-2  |
 | [一元机场](https://vgvg.vg#/register?code=0KLuGDda)          | 包年便宜，❌**速度有时不稳定**。<br />访问不用扶墙。--自用1年 | 7￥/100G，12￥(年)/100G月   | ---                                | 2023-08-14 |
@@ -46,7 +48,7 @@
 | [STC-SERVER](http://acad.stc-spadesdns.com/auth/register?code=oQYc) | 贵但稳定。推荐按量付费。--自用5年(**需过墙**)。              | ---                         | **0.8￥ /G**                       | 2020-02-08 |
 | [inets](https://inets.io/#/register?code=R5HwzjhB)           | 准备试用。访问不用扶墙。<br />缺点偏贵。Reality协议          | 7.5￥/50G                   | ---                                | 2025-03-14 |
 | [全球云](https://n3oplhjnm.quanqiugttt1.club/#/?code=uu8OCLjk) | 不限速，全面支持可8K播放，<br />访问不用扶墙。缺点偏贵。     | 20￥/120G                   | 100￥/100G                         | 2026-06-11 |
-| [红杏云](https://hxlove25s.cc/web/#/login?code=IUh11UC9)     | 稳定偏贵。**赠送 EMBY 影视库**，<br />访问不用过墙。--自用2年(时而优惠) | 20￥/200G                   | 388￥/3000G                        | 2024-09-22 |
+| [红杏云](https://hxlove25s.cc/web/#/login?code=IUh11UC9)     | 稳定偏贵。**赠送 EMBY 影视库**，<br />访问不用过墙。--自用2年(8.8折) | 20￥/200G                   | 388￥/3000G                        | 2024-09-22 |
 | [香蕉加速](https://b.banana06.win/auth/register?code=4uPD)   | ⭐贵！稳定！企业推荐！<br />需要专用客服端(**需过墙**)        | 33￥/100G-企业线路          | ---                                | 2024-12-16 |
 
 注：上述**机场开始时间**是根据域名注册时间查询所得。不代表真实时间。没有域名机场可能不太稳定，随时有跑路风险。

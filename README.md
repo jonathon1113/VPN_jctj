@@ -84,9 +84,11 @@
 
 ## 三、软件下载
 
-[软件下载（Windows/Android/macOS/iOS）](https://github.com/Kejifaxian/welcome/)
+[软件下载1（Windows/Android/macOS/iOS）](https://github.com/Kejifaxian/welcome/)
 
+[软件下载2（音乐/影视/Windows/Android/macOS/iOS）](https://xiazai.yfjc.win/1)
 
+[Windows音乐推荐Listen1-修复版](https://github.com/jonathon1113/listen1_desktop)
 
 ## 四、计划任务
 

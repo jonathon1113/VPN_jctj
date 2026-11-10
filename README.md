@@ -90,6 +90,8 @@
 
 [Windows音乐推荐Listen1-修复版](https://github.com/jonathon1113/listen1_desktop)
 
+[windown-**clash-verge-rev**](https://github.com/clash-verge-rev/clash-verge-rev)
+
 ## 四、计划任务
 
 - [x] 对使用机场有表格分析（价格，推荐原因，稳定性）--2026年10月31日

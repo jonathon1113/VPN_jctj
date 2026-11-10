@@ -38,7 +38,7 @@
 | [良心云](https://xn--9kqz23b19z.com/#/register?code=HSZW4gB8) | 月套餐多，覆盖各种价位。(**需过墙**)                         | 2￥/100G，4￥/500G          | ⭐21￥/1000G                        | 2025-03-04 |
 | [陪钱机场](https://xn--mes358aby2apfg.com/register?code=jJ7WmPNz&cover=sfw) | ⭐便宜好用，速度快。--自用2月。(**需过墙**)                   | 2￥/100G，4￥/500G          | ⭐18.9￥/1000G                      | 2022-11-06 |
 | [杏花云](https://216.236.61.23:8888/#/register?code=PLD3m9ca) | ⭐相对便宜，访问无需过墙。[官网](https://xh.xn--mes358a1b607m.com/) | 3￥/200G，12￥(年)/50G月    | 20￥/1000G年                       | 2026-09-20 |
-| [吹雪云](https://xn--9kqs1lo79d.com/#/register?code=qPC3m3ZE) | ⭐访问不用过墙。                                              | 2￥/128G                    | 18.8￥/888G                        | 2026-06-13 |
+| [吹雪云](https://xn--9kqs1lo79d.com/#/register?code=qPC3m3ZE) | ⭐相对便宜。(**需过墙**)                                      | 2￥/128G                    | 18.8￥/888G                        | 2026-06-13 |
 | [熊云机场](https://172.235.60.133:15000/#/register?code=TzyKReOB) | **5G试用**包，不用过墙，[官网](https://xn--9kq856f.com/)     | 3.9￥/18G                   | 34.9￥/90G                         | 2023-06-11 |
 | [一元机场](https://xn--4gq62f52gdss.top/#/register?code=rqZzdoix) | 量大管饱。不太稳定。(**需过墙**)                             | 5￥/2000G，12￥(年)/500G月  | ---                                | 2022-03-27 |
 | [飞鸟云](https://a1.170809.xyz/#/register?code=P5VrczBK)     | 包年便宜(**需过墙**)                                         | 10￥/200G，12￥(年)/50G月   | 10￥/200G                          | 2021-08-09 |
@@ -71,16 +71,17 @@
 
 ## 二、其他机场分享项目收集
 
-| Github项目                                                   | 类型简介                                                | ⭐Start                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------- | --------------------------------------- |
-| **[SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan)** | 专业稳定，偏贵。                                        | ⭐Start 21.3k                            |
-| **[panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)** | **相对便宜推荐，很多心得体会。**（⭐推荐观看）           | ⭐Start  16K                             |
-| **[v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)**   | 大家可以参考，这里面是比较专业稳定机场。                | ⭐Start 7.1k                             |
-| **[fly](https://github.com/029danio/fly)**                   | 机场节点评测，每月更新                                  | ⭐Start 3.2k                             |
-| **[SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash)** | 有中级、高级推荐，⭐**中端有很多免费试用机场**           | ⭐Start 2.9k                             |
-| **[jichangtuijian](https://github.com/VPN-tuijian/jichangtuijian)** | 中端测评。最低15￥/月                                   | ⭐Start 2.7k                             |
-| **[kjfx](https://github.com/kjfx/kjfx)**                     | 简单列表，介绍不够详细，待测试！                        | ⭐Start 881                              |
-| https://1.x31415926.top/cn.html                              | 各种**今日VPN优惠推荐**，猎奇可以尝试，欢迎反馈好用的。 | [网站](https://1.x31415926.top/cn.html) |
+| Github项目                                                   | 类型简介                                                     | ⭐Start                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------- |
+| **[SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan)** | 专业稳定，偏贵。                                             | ⭐Start 21.3k                            |
+| **[panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)** | **相对便宜推荐，很多心得体会。**（⭐推荐观看）                | ⭐Start  16K                             |
+| **[v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)**   | 大家可以参考，这里面是比较专业稳定机场。                     | ⭐Start 7.1k                             |
+| **[fly](https://github.com/029danio/fly)**                   | 机场节点评测，每月更新                                       | ⭐Start 3.2k                             |
+| **[SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash)** | 有中级、高级推荐，⭐**中端有很多免费试用机场**                | ⭐Start 2.9k                             |
+| **[jichangtuijian](https://github.com/VPN-tuijian/jichangtuijian)** | 中端测评。最低15￥/月                                        | ⭐Start 2.7k                             |
+| **[kjfx](https://github.com/kjfx/kjfx)**                     | 简单列表，介绍不够详细，待测试！                             | ⭐Start 881                              |
+| https://1.x31415926.top/cn.html                              | 各种**今日VPN优惠推荐**，猎奇可以尝试，欢迎反馈好用的。      | [网站](https://1.x31415926.top/cn.html) |
+| https://flyvpn88.top/                                        | 稳定高速 VPN 机场严选，每一家都经过真实购买实测。不踩坑，不跑路。 | [网站](https://flyvpn88.top/)           |
 
 ## 三、软件下载
 

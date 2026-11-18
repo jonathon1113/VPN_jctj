@@ -1,21 +1,18 @@
 # VPN_jctj
-2026最有性价比机场推荐(翻墙)，便宜稳定才是王道！不定时更新！
+**2026最有性价比机场推荐(翻墙)，便宜稳定才是王道！不定时更新！**
 
 有好用的欢迎提Issues。确实好用我再推荐给大家。
 
 **⭐为什么要收藏我？**[VPN_jctj永久地址](https://github.com/jonathon1113/VPN_jctj)
 
-1、整理所有仓库地址，并且做综合分析。
-
-2、我推荐的大多是我自己用的。
-
-3、⭐**一个找其他机场项目入口，并对他们进行简单分析。**
-
-4、⭐**本项目保证可以找到一款适合你的。**
+1. 整理 GitHub 上的知名仓库地址，并做综合对比分析。
+2. 以自用为主，推荐均经过真实测评。
+3. ⭐ 提供其他机场项目的入口，逐一附上简要分析。
+4. ⭐ 总有一款适合你。
 
 ## 一、性价比推荐
 
-> 是目前我用过最便宜的机场，而且还稳定。特点这反正便宜，就算跑路也无所谓。
+> 是目前我用过最便宜的机场，而且还稳定。特点是反正便宜，就算跑路也无所谓。
 >
 > 下以为自用测试(**自下用如图**)，欢迎使用反馈。（建议使用两家及以上）
 >
@@ -73,12 +70,15 @@
 
 | Github项目                                                   | 类型简介                                                     | ⭐Start                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------- |
-| **[SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan)** | 专业稳定，偏贵。                                             | ⭐Start 21.3k                            |
-| **[panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)** | **相对便宜推荐，很多心得体会。**（⭐推荐观看）                | ⭐Start  16K                             |
+| **[SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan)** | 专业稳定，偏贵。                                             | ⭐Start 22.7k                            |
+| **[panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)** | **相对便宜推荐，很多心得体会。**（⭐推荐观看）                | ⭐Start  17.9K                           |
 | **[v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)**   | 大家可以参考，这里面是比较专业稳定机场。                     | ⭐Start 7.1k                             |
 | **[fly](https://github.com/029danio/fly)**                   | 机场节点评测，每月更新                                       | ⭐Start 3.2k                             |
 | **[SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash)** | 有中级、高级推荐，⭐**中端有很多免费试用机场**                | ⭐Start 2.9k                             |
 | **[jichangtuijian](https://github.com/VPN-tuijian/jichangtuijian)** | 中端测评。最低15￥/月                                        | ⭐Start 2.7k                             |
+| **[The-40-Best-VPNs](https://github.com/John19187/The-40-Best-VPNs)** | "每周核查"机制是最大价值                                     | ⭐Start 2.5k                             |
+| [**dijiajichang**](https://github.com/KaWaIDeSuNe/dijiajichang) | 月付≤10元低价，定位清晰，附试用机场                          | ⭐Start 2.3k                             |
+| **[jichangtizi-tuijian](https://github.com/Abao130/jichangtizi-tuijian)** | 持续实测 , 少数标明实测方法的：IEPL/IPLC、晚高峰测速         | ⭐Start 1.4k                             |
 | **[kjfx](https://github.com/kjfx/kjfx)**                     | 简单列表，介绍不够详细，待测试！                             | ⭐Start 881                              |
 | https://1.x31415926.top/cn.html                              | 各种**今日VPN优惠推荐**，猎奇可以尝试，欢迎反馈好用的。      | [网站](https://1.x31415926.top/cn.html) |
 | https://flyvpn88.top/                                        | 稳定高速 VPN 机场严选，每一家都经过真实购买实测。不踩坑，不跑路。 | [网站](https://flyvpn88.top/)           |

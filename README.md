@@ -47,6 +47,7 @@
 | [inets](https://inets.io/#/register?code=R5HwzjhB)           | 准备试用。访问不用扶墙。<br />缺点偏贵。Reality协议          | 7.5￥/50G                   | ---                                | 2025-03-14 |
 | [全球云](https://n3oplhjnm.quanqiugttt1.club/#/?code=pMxMj3Yd) | 不限速，全面支持可8K播放，<br />访问不用扶墙。缺点偏贵。     | 20￥/120G                   | 100￥/100G                         | 2026-06-11 |
 | [红杏云](https://hxlove25s.cc/web/#/login?code=IUh11UC9)     | 稳定偏贵。**赠送 EMBY 影视库**，<br />访问不用过墙。--自用2年(8.8折) | 20￥/200G                   | 388￥/3000G                        | 2024-09-22 |
+| [狗狗加速](https://www.dginv.click/#/register?code=D3PMbCRP) | 速度不错，不用过墙。<br />**特殊时期可用**                   | 16.9￥/160G                 | ---                                | ---        |
 | [香蕉加速](https://b.banana06.win/auth/register?code=4uPD)   | ⭐贵！稳定！企业推荐！<br />需要专用客服端(**需过墙**)        | 33￥/100G-企业线路          | ---                                | 2024-12-16 |
 
 注：上述**机场开始时间**是根据域名注册时间查询所得。不代表真实时间。没有域名机场可能不太稳定，随时有跑路风险。

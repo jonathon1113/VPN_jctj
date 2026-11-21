@@ -6,7 +6,7 @@
 > 每家都标了我自己实际用了多久；踩过的雷单独放在文末「避雷区」，不藏着。
 > **表里带 `code=` 的链接是我的推荐链接**（不影响价格，也不影响你的选择），我拿一点推荐佣金，才有动力把这份表一直更新下去。
 
-[![Star](https://img.shields.io/github/stars/jonathon1113/VPN_jctj?style=social)](https://github.com/jonathon1113/VPN_jctj) · 永久地址：**https://github.com/jonathon1113/VPN_jctj**（收藏这个链接，以后不用再搜）
+[![Star](https://img.shields.io/github/stars/jonathon1113/VPN_jctj?style=social)](https://github.com/jonathon1113/VPN_jctj) · 永久地址：https://github.com/jonathon1113/VPN_jctj（收藏这个链接，以后不用再搜）
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 三、完整对比表（18 家）
+## 三、完整对比表
 
 > 每一行的链接都可以直接点，**含我的推荐码**，价格和我表里写的完全一致。
 > `自用 X 年/月` = 我自己付费并实际在用的时间；`开始时间` = 域名注册时间，越早越稳。
@@ -168,7 +168,7 @@ A：因为这是我的推荐链接，我拿一点推荐佣金。**价格跟我�
 | **[SSV2RayTrojanSSRClash](https://github.com/OverTheWallNode/SSV2RayTrojanSSRClash)** | 有中级、高级推荐，⭐**中端有很多免费试用机场** | 2.9k |
 | **[jichangtuijian](https://github.com/VPN-tuijian/jichangtuijian)** | 中端测评，最低 15￥/月 | 2.7k |
 | **[The-40-Best-VPNs](https://github.com/John19187/The-40-Best-VPNs)** | **"每周核查"机制是最大价值** | 2.5k |
-| [**dijiajichang**](https://github.com/KaWaIDeSuNe/dijiajichang)** | 月付≤10元低价，定位清晰，附试用机场 | 2.3k |
+| [**dijiajichang**](https://github.com/KaWaIDeSuNe/dijiajichang) | 月付≤10元低价，定位清晰，附试用机场 | 2.3k |
 | **[jichangtizi-tuijian](https://github.com/Abao130/jichangtizi-tuijian)** | 持续实测，少数标明实测方法的：IEPL/IPLC、晚高峰测速 | 1.4k |
 | **[kjfx](https://github.com/kjfx/kjfx)** | 简单列表，介绍不够详细，待测试！ | 881 |
 | [今日VPN优惠推荐](https://1.x31415926.top/cn.html) | 各种**今日 VPN 优惠推荐**，猎奇可以尝试，欢迎反馈好用的 | [网站](https://1.x31415926.top/cn.html) |
